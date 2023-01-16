@@ -1,11 +1,11 @@
-prev: 前
-next: 次
-prev_post: 前の投稿
-next_post: 次の投稿
-read_more: 'もっと読む&hellip;'
-untitled: (無題)
-translate_original: 元のアドレスを転換する
-meta_description: Hexoで力づけたブログ
+prev: <前
+next: 次>
+prev_post: <前の投稿
+next_post: 次の投稿>
+read_more: '+もっと読む&hellip;'
+untitled: (-無題-)
+translate_original: 元のアドレスを翻訳する>>
+meta_description: Hexoで力づけたブログ!
 
 
 
