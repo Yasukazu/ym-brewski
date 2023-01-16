@@ -1,3 +1,16 @@
+language:
+ - en
+ - cn
+ - tw
+ - ja
+langselect:
+  enable: true
+options: # langselect button display options
+    en: English
+    ja: 日本語
+    ## cn: 简体中文
+    ## tw: 正體中文
+
 name: YM
 
 menu:
