@@ -18,8 +18,8 @@ menu:
   Archives: /archives
   RSS: /atom.xml
 
-favicon: /css/favicon.png
-logo: /css/logo-60.png
+favicon: /css/images/blog-32.png
+logo: /css/images/blog-64.png
 
 # Disqus shortname
 disqus:
