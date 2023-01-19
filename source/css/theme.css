@@ -135,6 +135,7 @@ table tbody td :last-child {
 }
 
 header {
+  background-color: #aaa;
   min-height: 7em;
   display: flex;
   justify-content: space-between;
@@ -436,6 +437,9 @@ main.container {
   }
 }
 
+footer {
+  background-color: #bbb;
+}
 footer .copyright {
   font-size: .8em;
   margin: 4em 4em;
